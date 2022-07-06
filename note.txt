@@ -1,0 +1,11 @@
+CREATE TABLE Users (
+    UserID int,
+    Name varchar(255),
+    Phone varchar(20),
+    Email varchar(255),
+    Password varchar(255),
+    IsActive varchar(255),
+    Address varchar(255),
+    Address varchar(255),
+    City varchar(255)
+);
